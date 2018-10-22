@@ -19,3 +19,13 @@ git push -u origin master
 ```
 https://nightly.tistory.com/99
 ```
+
+## dcevm hotswap 설정
+
+I have configured hot swap agent for multi module project. In Web project i have added hotswap-agent.properties file. In hotswap-agent.properties file added path to the service projects target directory like this
+
+extraClasspath=D:/Sample/serviceproject/target/classes
+
+and now it is reloading files from above mentioned directory.
+
+[dcevm hotswap](https://stackoverflow.com/questions/32425303/hot-swap-agent-configuration-for-multi-module-project)
