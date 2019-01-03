@@ -29,3 +29,11 @@ extraClasspath=D:/Sample/serviceproject/target/classes
 and now it is reloading files from above mentioned directory.
 
 [dcevm hotswap](https://stackoverflow.com/questions/32425303/hot-swap-agent-configuration-for-multi-module-project)
+
+## 노트북 - 참고할 제품
+
+### HP 엘리트북 745 G5 R7-VEGA (SSD 256GB)
+
+### 한성컴퓨터 TFG176
+
+### 델 프리시전 M3510
