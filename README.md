@@ -37,3 +37,6 @@ and now it is reloading files from above mentioned directory.
 ### 한성컴퓨터 TFG176
 
 ### 델 프리시전 M3510
+
+## shell programming
+http://www.tldp.org/LDP/abs/html/part1.html
