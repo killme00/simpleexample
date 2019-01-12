@@ -1,7 +1,7 @@
 # SQL SERVER 데이터베이스
 
 ## 메타 정보 조회
-
+```
 -- 데이터베이스 목록
 select name from sys.databases;
 
@@ -32,3 +32,4 @@ left outer join sys.types t on t.user_type_id = c.user_type_id
 where o.type = 'U'
 	and o.name = 'person'
 order by o.name, c.name;
+```
