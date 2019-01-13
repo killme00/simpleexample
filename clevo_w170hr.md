@@ -35,6 +35,7 @@ Memory Speed options: PC3-10666 DDR3-1333 204pin SDRAM SODIMM
 ### MSI FX720 16기가 램 확장 사례
 [노트북 RAM 업그레이드](http://goguree.tistory.com/42)
 -> HM65 칩셋 사용 모델
-
+```
 > 삼성노트북 NT300
 > MSI FX720
+```
