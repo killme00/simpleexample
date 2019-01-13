@@ -31,3 +31,9 @@ Memory Speed options: PC3-10666 DDR3-1333 204pin SDRAM SODIMM
 
 ### amazon 램 구매
 [CORSAIR ValueSelect 16GB (2 x 8G) 204-Pin DDR3 SO-DIMM DDR3 1333 (PC3 10600) Laptop Memory Model CMSO16GX3M2A1333C9](https://www.amazon.com/dp/B006DI9PG8/ref=psdc_172500_t3_B07L62HGYX)
+
+### MSI FX720 16기가 램 확장 사례
+[노트북 RAM 업그레이드](http://goguree.tistory.com/42)
+-> HM65 칩셋 사용 모델
+삼성노트북 NT300
+MSI FX720
