@@ -30,6 +30,9 @@ and now it is reloading files from above mentioned directory.
 
 [dcevm hotswap](https://stackoverflow.com/questions/32425303/hot-swap-agent-configuration-for-multi-module-project)
 
+## java 관련
+[Awesome Java](https://github.com/akullpp/awesome-java)
+
 ## 노트북 - 참고할 제품
 
 ### HP 엘리트북 745 G5 R7-VEGA (SSD 256GB)
