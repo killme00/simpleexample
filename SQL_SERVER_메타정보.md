@@ -34,7 +34,11 @@ where o.type = 'U'
 order by o.name, c.name;
 ```
 
-## 통계 이름, 컬럼 조회
+## SQL Server 통계
+
+[SQL Server Statistics Basics](https://www.red-gate.com/simple-talk/sql/performance/sql-server-statistics-basics/)
+
+### 통계 이름, 컬럼 조회
 ```
 select s.stats_id StatsID,
   s.name StatsName,
