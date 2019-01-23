@@ -33,3 +33,23 @@ where o.type = 'U'
 	and o.name = 'person'
 order by o.name, c.name;
 ```
+
+## 통계 이름, 컬럼 조회
+```
+select s.stats_id StatsID,
+  s.name StatsName,
+  sc.stats_column_id StatsColID,
+  c.name ColumnName
+from sys.stats s
+inner join sys.stats_columns sc
+  on s.object_id = sc.object_id and s.stats_id = sc.stats_id
+inner join sys.columns c
+  on sc.object_id = c.object_id and sc.column_id = c.column_id
+where object_name(s.object_id) = 'awsales'
+order by s.stats_id, sc.column_id;
+```
+
+### 통계 정보
+```
+DBCC SHOW_STATISTICS (테이블명, 통계항목명);
+```
