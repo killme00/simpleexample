@@ -57,3 +57,18 @@ order by s.stats_id, sc.column_id;
 ```
 DBCC SHOW_STATISTICS (테이블명, 통계항목명);
 ```
+
+### 실행계획 Query 조회
+```
+select
+  decp.refcounts,
+  decp.usecounts,
+  decp.size_in_bytes,
+  decp.cacheobjtype,
+  decp.objtype,
+  decp.plan_handle,
+  t.text
+from sys.dm_exec_cached_plans as decp
+CROSS APPLY sys.dm_exec_sql_text(decp.plan_handle) t
+WHERE t.text like 'SELECT soh.SalesOrderNumber,%';
+```
