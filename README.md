@@ -45,6 +45,11 @@ and now it is reloading files from above mentioned directory.
 ## shell programming
 http://www.tldp.org/LDP/abs/html/part1.html
 
+# 구인, 채용 사이트
+- [로켓펀치](https://www.rocketpunch.com/jobs)
+- [원티드](https://www.wanted.co.kr/wdlist/518?referer_id=562450&location=label.location.kr.gangnam&years=10&job_sort=-confirm_time)
+- [더팀즈](https://www.theteams.kr/recruit)
+
 
 # 채원이 - 참고 노트북
 [베이직북14 : 대기업 노트북과 비교해보세요, 20만원대 파격 울트라북](https://www.wadiz.kr/web/campaign/detail/29032?isWadizApp=N)
