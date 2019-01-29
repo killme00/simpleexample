@@ -36,6 +36,9 @@ and now it is reloading files from above mentioned directory.
 
 [변수명 짓기](https://www.curioustore.com/#!/util/naming)
 
+## Utils
+[맥어드레스 확인](https://technitium.com/tmac/)
+
 ## 노트북 - 참고할 제품
 
 ### HP 엘리트북 745 G5 R7-VEGA (SSD 256GB)
