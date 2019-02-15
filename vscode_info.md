@@ -9,4 +9,4 @@ F1 > developer tools : console 탭에서 다음 입력
 ```
 > process.versions.electron
 ```
-[Provide a way to inspect what version of electron vscode is using](https://github.com/Microsoft/vscode/issues/49644)
+출처 : [Provide a way to inspect what version of electron vscode is using](https://github.com/Microsoft/vscode/issues/49644)
