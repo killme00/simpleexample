@@ -14,6 +14,12 @@ F1 > developer tools : console 탭에서 다음 입력
 #### Disable GPU rendering
 [How can I disable GPU rendering in Visual Studio Code](https://stackoverflow.com/questions/29966747/how-can-i-disable-gpu-rendering-in-visual-studio-code/30007549)
 
+#### visual studio code 실행 시 옵셥 추가
+##### 하드웨어 가속 disable
+```
+code.exe --disable-gpu
+```
+
 ##### electron 기반인 chrome 에서의 처리
 설정
 ```
