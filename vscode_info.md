@@ -19,7 +19,7 @@ F1 > developer tools : console 탭에서 다음 입력
 ```
 chrome://settings
 ```
-에서 __고급__을 선택
+에서 **고급**을 선택
 ```
 시스템 > 가능한 경우 하드웨어 가속 사용
 ```
