@@ -3,6 +3,8 @@
 ## 책
 [Understanding ECMAScript 6](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=sr_1_1?ie=UTF8&qid=1550208457&sr=8-1&keywords=understanding+ecmascript+6)
 
+[Exploring ES6](http://exploringjs.com/es6/index.html)
+
 ## 예제
 
 [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
