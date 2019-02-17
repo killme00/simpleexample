@@ -5,6 +5,9 @@
 
 [Exploring ES6](http://exploringjs.com/es6/index.html)
 
+### javascript, es5
+[Speaking JavaScript](http://speakingjs.com/es5/index.html)
+
 ## 예제
 
 [Scraping the Web With Node.js](https://scotch.io/tutorials/scraping-the-web-with-node-js)
