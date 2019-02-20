@@ -31,13 +31,3 @@ chrome://settings
 ```
 선택 해제
 
-## GIST
-### Personal Access Tokens
-Token
-```
-code-settings-sync : 9e7502a06461dfaedb6619b55a53d4ff9b05fb80
-```
-Gist ID
-```
-68d879c18dac573b63f1b8acf3ef1f78
-```
