@@ -30,3 +30,14 @@ chrome://settings
 시스템 > 가능한 경우 하드웨어 가속 사용
 ```
 선택 해제
+
+## GIST
+### Personal Access Tokens
+Token
+```
+code-settings-sync2 : b761dd8606eb2407c5dd4c7a36e5a14e5e7a975e
+```
+Gist ID
+```
+68d879c18dac573b63f1b8acf3ef1f78
+```
