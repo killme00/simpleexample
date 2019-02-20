@@ -35,7 +35,7 @@ chrome://settings
 ### Personal Access Tokens
 Token
 ```
-code-settings-sync2 : b761dd8606eb2407c5dd4c7a36e5a14e5e7a975e
+code-settings-sync2 : 3a83e6c10170da07e5e73f41276475af70a66e84
 ```
 Gist ID
 ```
