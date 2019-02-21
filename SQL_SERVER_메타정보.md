@@ -86,9 +86,18 @@ $srv.ConnectionContext.LoginSecure=$false;
 $srv.ConnectionContext.set_Login("sas_admin"); 
 
 # This sets the password 
-$srv.ConnectionContext.set_Password("Passw0rd!")  
+$srv.ConnectionContext.set_Password("Passw0rd!")  ;
 
 $srv.Databases | Select name
+
+$db = New-Object("Microsoft.sqlServer.Management.Smo.Database") ($srv, "sas");
+$ds = $db.ExecuteWithResults("select TOP 5 CUS_NM from CUSMST110");
+
+$table = $ds.tables[0]
+
+foreach ($item in $table) {
+	Write-Output $item.CUS_NM
+}
 ```
 
 #### 참조
