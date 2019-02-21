@@ -72,3 +72,24 @@ from sys.dm_exec_cached_plans as decp
 CROSS APPLY sys.dm_exec_sql_text(decp.plan_handle) t
 WHERE t.text like 'SELECT soh.SalesOrderNumber,%';
 ```
+## Powershell
+### powershell에서 SQL Server Authentication 으로 접속
+
+```
+System.Reflection.Assembly]::LoadWithPartialName('Microsoft.SqlServer.SMO') | out-null 
+$srv = new-object ('Microsoft.SqlServer.Management.Smo.Server') "168.154.244.53"  
+
+# This sets the connection to mixed-mode authentication 
+$srv.ConnectionContext.LoginSecure=$false; 
+
+# This sets the login name 
+$srv.ConnectionContext.set_Login("sas_admin"); 
+
+# This sets the password 
+$srv.ConnectionContext.set_Password("Passw0rd!")  
+
+$srv.Databases | Select name
+```
+
+#### 참조
+[Connect to SQL Server via Windows PowerShell with SQL Server authentication](https://www.mssqltips.com/sqlservertip/1947/connect-to-sql-server-via-windows-powershell-with-sql-server-authentication/)
