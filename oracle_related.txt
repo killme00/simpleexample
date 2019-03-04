@@ -97,3 +97,18 @@ XE =
 
 # port open 확인
 sudo netstat -ntlp | grep LISTEN
+
+
+# Dockerfile 로 빌드한 image 로 실행
+--------------------------------------------------------------------------------
+FROM brunodias20/oracle-11g_debian:latest
+
+MAINTAINER killme <killme0x@gmail.com>
+
+COPY listener.ora /u01/app/oracle/product/11.2.0/xe/network/admin/listener.ora
+--------------------------------------------------------------------------------
+
+- Dockerfile 이 있는 경로에 listener.ora 를 복사하여 아래 명령어를 실행
+
+sudo docker build --tag killme0x/oracle-11g-xe_debian:0.1 .
+sudo docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true --name="oracle11g_xe_v02" killme0x/oracle-11g-xe_debian:0.1
