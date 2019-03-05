@@ -1,6 +1,6 @@
 # 참고 문서
 
-## Xplatform과 Spring Framework 연동 템플릿으로 보는 HandlerMethodArgumentResolver와 ViewResolver
+#### Xplatform과 Spring Framework 연동 템플릿으로 보는 HandlerMethodArgumentResolver와 ViewResolver
 - [(01) - 개요](https://zgundam.tistory.com/150)
 - [(02) - 사전지식](https://zgundam.tistory.com/151)
 - [(03) - HttpServletRequestWrapper](https://zgundam.tistory.com/152)
