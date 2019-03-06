@@ -1,4 +1,6 @@
+# hwinfo - my pc
 
+```
 <HTML>
 <HEAD>
 <META NAME="GENERATOR" CONTENT="HWiNFO64 v6.02-3670">
@@ -2950,3 +2952,4 @@ TD.pt { font: bold 140% verdana, tahoma, ms sans serif, arial; color: #000080; v
 </TABLE><BR><BR>
 </BODY>
 </HTML>
+```
