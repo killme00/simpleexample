@@ -141,4 +141,4 @@ COPY listener.ora.tmpl /u01/app/oracle/product/11.2.0/xe/network/admin/listener.
 - Dockerfile 이 있는 경로에 listener.ora 를 복사하여 아래 명령어를 실행
 
 sudo docker build --tag killme0x/oracle-11g-xe_debian:0.1 .
-sudo docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true --cap-add=NET_ADMIN --cap-add=NET_RAW --name="oracle11g_xe_v02" killme0x/oracle-11g-xe_debian:0.1
+sudo docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true --cap-add=NET_ADMIN --cap-add=NET_RAW --name="oracle11g_xe_v02" killme0x/oracle-11g-xe_debian:0.2
