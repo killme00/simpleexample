@@ -14,6 +14,10 @@ sudo docker run -d -p 1521:1521 -e ORACLE_ALLOW_REMOTE=true brunodias20/oracle-1
 # bash
 sudo docker exec -it brave_einstein bash
 
+# session role 부여
+root@1de24f053a75:/# sqlplus sys/oracle as sysdba
+SQL> grant connect to dbuser;
+
 # Dockerfile
 -----------------------------------------------------------------------
 # Dockerfile 
