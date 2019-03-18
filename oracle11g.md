@@ -21,3 +21,6 @@
 [Getting Started](https://docs.oracle.com/cd/E11882_01/index.htm)
 
 [Database Administration](https://docs.oracle.com/cd/E11882_01/nav/portal_4.htm)
+
+### Oracle Sample Models and Scripts
+[Sample Models and Scripts](https://www.oracle.com/technetwork/developer-tools/datamodeler/sample-models-scripts-224531.html)
