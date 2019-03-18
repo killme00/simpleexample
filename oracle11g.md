@@ -22,5 +22,8 @@
 
 [Database Administration](https://docs.oracle.com/cd/E11882_01/nav/portal_4.htm)
 
+### Download Oracle Database Examples
+[Download Oracle Database Examples](https://docs.oracle.com/cd/E11882_01/install.112/e24501/toc.htm#BABBIBJF)
+
 ### Oracle Sample Models and Scripts
 [Sample Models and Scripts](https://www.oracle.com/technetwork/developer-tools/datamodeler/sample-models-scripts-224531.html)
