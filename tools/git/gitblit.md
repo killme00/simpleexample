@@ -11,3 +11,7 @@ C:\bin\gitblit\gitblit.cmd
 ```
 C:\bin\gitblit\gitblit-stop.cmd
 ```
+
+## gitblit
+
+[gitblit setting](http://gitblit.com/setup_go.html)
