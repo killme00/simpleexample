@@ -12,12 +12,14 @@ RAMA-KRISHNA 부분 참고
 
 note: this guide will not work, if you changed your configuration again.
 
->Notepad++ v7.6.3 (64-bit)
->Build time : Jan 27 2019 - 17:16:47
->Path : C:\Program Files\Notepad++\notepad++.exe
->Admin mode : OFF
->Local Conf mode : OFF
->OS : Windows 10 (64-bit)
+```
+Notepad++ v7.6.3 (64-bit)
+Build time : Jan 27 2019 - 17:16:47
+Path : C:\Program Files\Notepad++\notepad++.exe
+Admin mode : OFF
+Local Conf mode : OFF
+OS : Windows 10 (64-bit)
+```
 
 Plugins : ComparePlugin.dll DSpellCheck.dll mimeTools.dll NppConverter.dll NppTextFX.dll PluginManager.dll ViSimulator.dll
 
