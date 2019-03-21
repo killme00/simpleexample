@@ -28,8 +28,8 @@ Plugins : ComparePlugin.dll DSpellCheck.dll mimeTools.dll NppConverter.dll NppTe
 - extract CodeAlignmentNpp_v14.1_x64.zip to your desktop and open it in an explorer window.
 - open another explorer window and go to C:\Program Files\Notepad++\plugins
 - create a new folder CodeAlignmentNpp inside of plugins
-> note: the folder name has to be written exactly like that.
-> (the resulting folder is C:\Program Files\Notepad++\plugins\CodeAlignmentNpp)
+1. note: the folder name has to be written exactly like that.
+1. (the resulting folder is C:\Program Files\Notepad++\plugins\CodeAlignmentNpp)
 
 - copy CodeAlignmentNpp.dll from your downloaded “CodeAlignmentNpp_v14.1_x64” folder to C:\Program Files\Notepad++\plugins\CodeAlignmentNpp.
 
