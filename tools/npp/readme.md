@@ -30,11 +30,8 @@ Plugins : ComparePlugin.dll DSpellCheck.dll mimeTools.dll NppConverter.dll NppTe
 - create a new folder CodeAlignmentNpp inside of plugins
 1. note: the folder name has to be written exactly like that.
 1. (the resulting folder is C:\Program Files\Notepad++\plugins\CodeAlignmentNpp)
-
 - copy CodeAlignmentNpp.dll from your downloaded “CodeAlignmentNpp_v14.1_x64” folder to C:\Program Files\Notepad++\plugins\CodeAlignmentNpp.
-
 - copy the folder CodeAlignment from your downloaded “CodeAlignmentNpp_v14.1_x64” folder to C:\Program Files\Notepad++\plugins\CodeAlignmentNpp.
-
 - restart notepad++ and your Code Alignment plugin is ready to go.
 
 **important note: please remove your PluginManager.dll, as it is incompatible with notepad++ 7.6.3 and will write files to the wrong loctions.**
