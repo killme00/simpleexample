@@ -6,6 +6,8 @@
 
 RAMA-KRISHNA 부분 참고
 
-**important: do not change anything else on your notepad++ installation, unless instructed by @PeterJones , me, or another community regular from here, or else any guides will not work, as we do not have tracks of your recent changes.
 
-guide to install the code alignment npp plugin on your system with exactly this configuration:**
+**important: do not change anything else on your notepad++ installation, unless instructed by @PeterJones , me, or another community regular from here, or else any guides will not work, as we do not have tracks of your recent changes.**
+
+
+**guide to install the code alignment npp plugin on your system with exactly this configuration:**
