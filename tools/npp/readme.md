@@ -19,9 +19,9 @@ Path : C:\Program Files\Notepad++\notepad++.exe
 Admin mode : OFF
 Local Conf mode : OFF
 OS : Windows 10 (64-bit)
-```
-
 Plugins : ComparePlugin.dll DSpellCheck.dll mimeTools.dll NppConverter.dll NppTextFX.dll PluginManager.dll ViSimulator.dll
+```
+-----------------------------------------
 
 - make sure you follow all steps precisely:
 - download CodeAlignmentNpp_v14.1_x64.zip from [>>> here <<<](https://github.com/cpmcgrath/codealignment/releases/download/v14.1/CodeAlignmentNpp_v14.1_x64.zip).
