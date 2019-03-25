@@ -3,6 +3,9 @@
 ## 단축키
 [cvim 단축키](https://www.cheatography.com/yograf/cheat-sheets/cvim/)
 
+## jeus 7 web service guide
+jeus 7 web service guide - [JEUS_7_Web_Service_Guide.pdf](https://kr.tmaxsoft.com/img/service/pdf/manual/JEUS_7_Web_Service_Guide.pdf)
+
 ## RESTful이란
 [RESTful이란?](https://nesoy.github.io/articles/2017-02/REST)
 
