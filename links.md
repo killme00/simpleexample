@@ -6,6 +6,8 @@
 ## jeus 7 web service guide
 jeus 7 web service guide - [JEUS_7_Web_Service_Guide.pdf](https://kr.tmaxsoft.com/img/service/pdf/manual/JEUS_7_Web_Service_Guide.pdf)
 
+[참고] Apache AXIS를 이용한 웹서비스 강좌 : https://newstars.tistory.com/3
+
 ## RESTful이란
 [RESTful이란?](https://nesoy.github.io/articles/2017-02/REST)
 
