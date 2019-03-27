@@ -14,6 +14,9 @@ C:\bin\gitblit\gitblit-stop.cmd
 
 ## gitblit
 
+## 계정 - 기본값
+admin / admin
+
 [gitblit setting](http://gitblit.com/setup_go.html)
 
 #### installService.cmd 수정
