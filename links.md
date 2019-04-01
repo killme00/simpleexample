@@ -14,6 +14,9 @@ jeus 7 web service guide - [JEUS_7_Web_Service_Guide.pdf](https://kr.tmaxsoft.co
 - [국립중앙도서관 디지탈도서관 이용방법](https://www.nl.go.kr/nl/visit/digital/digital_guide.jsp)
 - [국립중앙도서관 온라인 서비스](https://www.nl.go.kr/nl/service/site/general_user.jsp)
 
+## 밴드 PC 버전
+[밴드 PC 버전](https://band.us/cs/notice/1301)
+
 ### 도서 검색
 - [국가자료종합목록](https://www.nl.go.kr/kolisnet/index.do)
 - [사서에게 물어보세요](http://www.nl.go.kr/ask/)
