@@ -14,7 +14,7 @@ jeus 7 web service guide - [JEUS_7_Web_Service_Guide.pdf](https://kr.tmaxsoft.co
 ### 도서 검색
 - [국가자료종합목록](https://www.nl.go.kr/kolisnet/index.do)
 - [사서에게 물어보세요](http://www.nl.go.kr/ask/)
-
+- [책이음 서비스](http://book.nl.go.kr/iplls/Index.do)
 
 ## RESTful이란
 [RESTful이란?](https://nesoy.github.io/articles/2017-02/REST)
