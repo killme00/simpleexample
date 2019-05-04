@@ -10,3 +10,8 @@
 ## python
 
 [Python Development in Visual Studio Code](https://realpython.com/python-development-visual-studio-code/)
+
+## C++
+[C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+[C++ Core Guidelines 한국어번역](https://github.com/CppKorea/CppCoreGuidelines)
