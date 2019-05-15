@@ -22,3 +22,10 @@
 [bitfarm-archiv Document Management System](https://www.bitfarm-archiv.com/)
 
 [XWIKI](https://www.xwiki.org/xwiki/bin/view/Main/WebHome)
+
+## Testing
+
+### FitNesse
+[FitNesse - wiki and acceptance testing framework](http://fitnesse.org/)
+
+[Fitnesse 통합테스트](http://www.nextree.co.kr/p2613/)
