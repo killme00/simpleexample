@@ -20,3 +20,5 @@
 ## Knowledge Management System - KMS
 
 [bitfarm-archiv Document Management System](https://www.bitfarm-archiv.com/)
+
+[XWIKI](https://www.xwiki.org/xwiki/bin/view/Main/WebHome)
