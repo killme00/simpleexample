@@ -11,3 +11,8 @@
 [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
 [VScode 포터블 모드로 사용하기](https://vscode.tistory.com/entry/VScode-%ED%8F%AC%ED%84%B0%EB%B8%94-%EB%AA%A8%EB%93%9C%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+## extension
+[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare&WT.mc_id=vscodecandothat-dotcom-team)
+
+[Visual Studio Live Share](https://visualstudio.microsoft.com/ko/services/live-share/)
