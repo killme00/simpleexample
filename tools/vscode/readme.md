@@ -16,3 +16,5 @@
 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare&WT.mc_id=vscodecandothat-dotcom-team)
 
 [Visual Studio Live Share](https://visualstudio.microsoft.com/ko/services/live-share/)
+
+[vscode-sshfs](https://github.com/SchoofsKelvin/vscode-sshfs)
