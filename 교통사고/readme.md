@@ -40,3 +40,4 @@ FAX : 031-768-2229
 ### 과실비율 정보포털
 [인터넷 상담](http://accident.knia.or.kr/qna)
 
+[교통사고 후 보험처리를 위한 행동요령](https://www.valuechampion.co.kr/car-insurance/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0-%ED%9B%84-%EB%B3%B4%ED%97%98%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%96%89%EB%8F%99%EC%9A%94%EB%A0%B9)
