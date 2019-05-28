@@ -46,6 +46,7 @@ FAX : 031-768-2229
 
 
 참고 : [일반폐차 / 말소등록 절차](https://www.car365.go.kr/web/contents/disusedcar_info01.do)
+
 참고 : [한국자동차해체재활용협회 일반폐차 / 말소등록 절차](http://www.kadra.or.kr/kadra/contents/sub01/01_03.html)
 
 
