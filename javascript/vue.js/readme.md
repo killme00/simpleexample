@@ -13,3 +13,5 @@
 [Why I Switched From Visual Studio Code To JetBrains WebStorm](https://dev.to/mokkapps/why-i-switched-from-visual-studio-code-to-jetbrains-webstorm-939)
 
 [How We Created a Multi-site Setup for a Vehicle Marketplace: Challenges, Solutions and Insights](https://www.codica.com/blog/multisite-vehicle-marketplace/)
+
+[Get started building apps with Vue.js in WebStorm](https://blog.jetbrains.com/webstorm/2019/03/get-started-building-apps-with-vue-js-in-webstorm/)
