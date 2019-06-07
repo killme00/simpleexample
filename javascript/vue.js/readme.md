@@ -11,3 +11,5 @@
 [4 Main JavaScript Development Trends in 2019](https://www.codica.com/blog/4-top-javascript-trends-2019/)
 
 [Why I Switched From Visual Studio Code To JetBrains WebStorm](https://dev.to/mokkapps/why-i-switched-from-visual-studio-code-to-jetbrains-webstorm-939)
+
+[How We Created a Multi-site Setup for a Vehicle Marketplace: Challenges, Solutions and Insights](https://www.codica.com/blog/multisite-vehicle-marketplace/)
