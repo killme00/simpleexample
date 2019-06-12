@@ -3,6 +3,8 @@
 ## 리소스
 
 ### Articles
+[Webpack과 Babel로 최신 JavaScript 웹프론트 개발환경 만들기](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
+
 [Vue.js 살펴보기](http://jeonghwan-kim.github.io/vue/2017/03/27/vue.html)
 
 [14 of the Most Interesting Vue UI Component Libraries for 2019](https://www.codeinwp.com/blog/vue-ui-component-libraries/)
