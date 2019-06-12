@@ -3,6 +3,7 @@
 ## 리소스
 
 ### Articles
+[Vue.js 살펴보기](http://jeonghwan-kim.github.io/vue/2017/03/27/vue.html)
 
 [14 of the Most Interesting Vue UI Component Libraries for 2019](https://www.codeinwp.com/blog/vue-ui-component-libraries/)
 
