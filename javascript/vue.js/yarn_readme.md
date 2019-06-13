@@ -17,3 +17,48 @@ npm init
 ```
 yarn init
 ```
+
+### package.json 안의 모든 패키지 설치
+```
+npm install
+```
+===>
+```
+yarn install
+```
+
+### 패키지 설치 후 package.json 의 dependencies 에 기록
+```
+npm install --save [패키지]
+```
+===>
+```
+yarn add [패키지]
+```
+
+### 패키지 설치 후 package.json 의 devDependencies 에 기록
+```
+npm install --save-dev [패키지]
+```
+===>
+```
+yarn add -D [패키지]
+```
+
+### 패키지 삭제 후 package.json 의 dependencies 수정
+```
+npm uninstall --save [패키지]
+```
+===>
+```
+yarn remove [패키지]
+```
+
+### 패키지 삭제 후 package.json 의 devDependencies 수정
+```
+npm uninstall --save-dev [패키지]
+```
+===>
+```
+yarn remove -D [패키지]
+```
