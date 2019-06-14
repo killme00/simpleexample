@@ -6,8 +6,11 @@
 
 [WEEX](https://weex.apache.org/guide/introduction.html)
 
-### Articles
+### Books
 [Node.js 교과서](https://thebook.io/006982/)
+
+### Articles
+[Vue 프로젝트를 통해서 Webpack을 알아보자](https://blog.hanumoka.net/2018/08/26/vue-20180826-web-webpack/)
 
 [Webpack과 Babel로 최신 JavaScript 웹프론트 개발환경 만들기](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
 
