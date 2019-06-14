@@ -2,6 +2,10 @@
 
 ## 리소스
 
+### 관련 Library
+
+[WEEX](https://weex.apache.org/guide/introduction.html)
+
 ### Articles
 [Node.js 교과서](https://thebook.io/006982/)
 
