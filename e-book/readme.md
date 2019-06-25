@@ -4,4 +4,3 @@
 
 Advanced Oracle Sql Tuning: The Definitive Reference
 
-http://4w3elz3net.gq/upload/advanced_oracle_sql_tuning_the_definitive_reference.pdf
