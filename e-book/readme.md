@@ -4,5 +4,7 @@
 
 Advanced Oracle Sql Tuning: The Definitive Reference
 
+
 database design for mere mortals
+
 http://rapidgator.net/file/57c70f2124bfd96e9b867fa89e085dfd/database-design-for-mere-mortals-3rd.rar.html?referer=https://coderprog.com/database-design-for-mere-mortals-3rd/
