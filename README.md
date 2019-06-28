@@ -15,6 +15,10 @@ git remote add origin https://github.com/killme00/simpleexample.git
 git push -u origin master
 ```
 
+## A collection of .gitignore templates
+[A collection of .gitignore templates](https://github.com/github/gitignore)
+
+
 ## 설치된 윈도우 제품키 프로그램 없이 알아보기
 ```
 https://nightly.tistory.com/99
