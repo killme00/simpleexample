@@ -2,6 +2,13 @@
 
 ## Docker 팁
 
+### docker-machine 으로 virtualbox 게스트 OS 시작
+Docker Quickstart Terminal 을 띄우고
+```
+docker-machine start
+```
+를 실행
+
 ### docker 에 ssh 로 접근
 
 실행 중인 virtualbox 게스트 OS 확인
