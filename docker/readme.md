@@ -40,6 +40,8 @@ sudo -i
 
 [Ubuntu18.04 Install](https://dico.me/server/articles/235)
 
+[Ubuntu 18.04 / 저장소 변경하여 apt-get 패키지 다운로드 속도 높이는 방법](https://www.manualfactory.net/10525)
+
 [VirtualBox host-only network - ssh to remote machine](https://code-maven.com/virtualbox-host-only-network-ssh-to-remote-machine)
 
 ## Window Image
