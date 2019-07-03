@@ -2,6 +2,12 @@
 
 ## Docker 팁
 
+### docker-machine 으로 virtualbox 게스트 OS 생성
+```
+export MACHINE_STORAGE_PATH=/d/my_dev/docker_related/.docker/machine
+docker-machine create -d virtualbox dev001
+```
+
 ### docker-machine 으로 virtualbox 게스트 OS 시작
 Docker Quickstart Terminal 을 띄우고
 ```
