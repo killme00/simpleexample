@@ -31,6 +31,9 @@ jeus 7 web service guide - [JEUS_7_Web_Service_Guide.pdf](https://kr.tmaxsoft.co
 ## RESTful이란
 [RESTful이란?](https://nesoy.github.io/articles/2017-02/REST)
 
+## 웹 개발 관련 기술 블로그
+[안전한 SSL/TLS를 운영하기 위해 알아야 하는 것들](https://engineering.linecorp.com/ko/blog/best-practices-to-secure-your-ssl-tls/)
+
 ## 선릉역 부근 사무용품점 - 귀마개
 [귀마개](http://www.officedepot.co.kr/item/itemView.do?currentPageNo=1&listSortNo=7&listType=image&itemId=1000000018120&kw=%EA%B7%80%EB%A7%88%EA%B0%9C&subSearchWord=)
 
