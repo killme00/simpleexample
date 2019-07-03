@@ -11,9 +11,15 @@ docker-machine create -d virtualbox dev001
 ### docker-machine 으로 virtualbox 게스트 OS 시작
 Docker Quickstart Terminal 을 띄우고
 ```
-docker-machine start
+docker-machine start default
 ```
 를 실행
+
+### 환경 변수 확인 후 접속 URL 환경변수 지정
+```
+docker-machine env default
+export DOCKER_HOST=tcp://192.168.99.100:2376
+```
 
 ### docker 에 ssh 로 접근
 
