@@ -38,6 +38,11 @@ docker-machine ssh default
 docker container ls --format '{{.Command}}' --no-trunc
 ```
 
+### status 가 'exited' 인 container 목록만 출력
+```
+docker container ls --filter "status=exited"
+```
+
 ### virtual 게스트 OS 셧다운
 ```
 sudo shutdown -h now
