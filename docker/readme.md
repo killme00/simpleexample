@@ -33,6 +33,11 @@ virtualbox 게스트 OS (ex: default) 에 ssh 접근
 docker-machine ssh default
 ```
 
+### docker 에서 실행시킨 명령어 출력
+```
+docker container ls --format '{{.Command}}' --no-trunc
+```
+
 ### virtual 게스트 OS 셧다운
 ```
 sudo shutdown -h now
