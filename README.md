@@ -1,5 +1,8 @@
 # simpleexample
 
+## Windows 10 Home 에서 Professional 로 업그레이드
+[Windows10 Home에서 Pro로 업그레이드 하기](https://thelim.tistory.com/entry/Windows10-Home%EC%97%90%EC%84%9C-Pro%EB%A1%9C-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%95%98%EA%B8%B0)
+
 ## Quick setup -- if you've done this kind of thing before
 ```
 https://github.com/killme00/simpleexample.git
