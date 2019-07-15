@@ -4,8 +4,8 @@
 
 ### module 업데이트
 ```
-C:\Python\v3_6_8\python -m pip install --update pip
-C:\Python\v3_6_8\python -m pip install --update virtualenv
+C:\Python\v3_6_8\python -m pip install --upgrade pip
+C:\Python\v3_6_8\python -m pip install --upgrade virtualenv
 ```
 
 ### virtualenv 생성
