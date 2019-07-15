@@ -7,17 +7,20 @@
 git branch
 ```
 
-## branch 목록
+### branch 목록
 ```
 git tag
 ```
 
-## 지정한 branch 로 전환
+### 지정한 branch 로 전환
 ```
 git checkout 7a
 ```
 
-## 
+### log 를 역순으로 보기
+```
+git log -5 --reverse
+```
 
 ## 리소스
 
