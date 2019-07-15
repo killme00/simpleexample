@@ -22,6 +22,13 @@ git checkout 7a
 git log --reverse
 ```
 
+### 원본 상태로 되돌리기
+```
+git reset --hard
+```
+[Git을 잘 써보자- 4. git log와 git reset](https://suwoni-codelab.com/git/2018/04/05/Git-reset/)
+
+
 ## 리소스
 
 ### Articles
