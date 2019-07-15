@@ -8,6 +8,27 @@ C:\Python\v3_6_8\python -m pip install --update pip
 C:\Python\v3_6_8\python -m pip install --update virtualenv
 ```
 
+### vscode 의 settings.json
+```
+{
+    "python.pythonPath": "C:\\Python\\v3_6_8\\python.exe",
+    "files.autoGuessEncoding": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/K",
+        "SET Path=C:\\Users\\kimbaek\\.virtualenvs\\pytest_venv\\Scripts & C:\\Users\\kimbaek\\.virtualenvs\\pytest_venv\\Scripts\\activate.bat"
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
+```
+
 ## Articles
 
 [2018 파이썬 개발자 설문조사 결과 알아보기](https://tariat.tistory.com/597)
