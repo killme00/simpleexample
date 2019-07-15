@@ -8,6 +8,11 @@ C:\Python\v3_6_8\python -m pip install --update pip
 C:\Python\v3_6_8\python -m pip install --update virtualenv
 ```
 
+### virtualenv 생성
+```
+C:\Python\v3_6_8\Scripts\virtualenv.exe -p C:\Python\v3_6_8\python.exe C:\Users\kimbaek\.virtualenvs\flask_venv
+```
+
 ### vscode 의 settings.json
 ```
 {
