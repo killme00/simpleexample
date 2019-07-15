@@ -19,7 +19,7 @@ git checkout 7a
 
 ### log 를 역순으로 보기
 ```
-git log -5 --reverse
+git log --reverse
 ```
 
 ## 리소스
