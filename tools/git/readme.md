@@ -35,4 +35,6 @@ git reset --hard
 
 ### Articles
 
+[성공적인 Git branch 관리 Model](http://amazingguni.github.io/blog/2016/03/git-branch-%EA%B7%9C%EC%B9%99)
+
 [4 Useful Git Commands That Will Make Your Life Easier](https://www.codica.com/blog/useful-git-commands-that-save-time/)
