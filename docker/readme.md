@@ -54,6 +54,8 @@ sudo -i
 ```
 
 ## Docker Articles
+[Mailu configuration](https://setup.mailu.io/1.6/)
+
 [Docker Toolbox Setup — Windows](https://rominirani.com/docker-toolbox-setup-windows-4d65c3f691eb)
 
 [DOCKER-MACHINE 소개, 설치 및 기본 사용법](https://seulcode.tistory.com/241)
