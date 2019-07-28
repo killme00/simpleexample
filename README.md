@@ -6,6 +6,13 @@
 ## Windows 10 Home 에서 Professional 로 업그레이드
 [Windows10 Home에서 Pro로 업그레이드 하기](https://thelim.tistory.com/entry/Windows10-Home%EC%97%90%EC%84%9C-Pro%EB%A1%9C-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%95%98%EA%B8%B0)
 
+### 1903 업데이트
+[buggy Windows Upgrade Advisor](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-update-fails-with-error-about/01ff297c-5fc5-42d1-9e69-6cbd7bcfecf9)
+
+[Media Creation Tool - Download](http://windows.microsoft.com/en-us/windows-10/media-creation-tool-install)
+
+지금 업데이트 클릭 -> Windows10Upgrade9525.exe 실행
+
 ## Quick setup -- if you've done this kind of thing before
 ```
 https://github.com/killme00/simpleexample.git
