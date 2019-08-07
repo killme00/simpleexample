@@ -3,7 +3,7 @@
 ## 리소스
 
 ### 커뮤니티
-[Cracking Vue.js(https://joshua1988.github.io/vue-camp/front-dev.html)
+[Cracking Vue.js](https://joshua1988.github.io)
 
 [Cracking Vue.js - More Articles](https://joshua1988.github.io/)
 
